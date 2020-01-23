@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/observatory-react/observatories/climate-change-opinion-observatory/static/js/main.ea7fda5d.chunk.js",
-    "main.js.map": "/observatory-react/observatories/climate-change-opinion-observatory/static/js/main.ea7fda5d.chunk.js.map",
-    "runtime-main.js": "/observatory-react/observatories/climate-change-opinion-observatory/static/js/runtime-main.14a0b647.js",
-    "runtime-main.js.map": "/observatory-react/observatories/climate-change-opinion-observatory/static/js/runtime-main.14a0b647.js.map",
-    "static/css/2.3c2e396e.chunk.css": "/observatory-react/observatories/climate-change-opinion-observatory/static/css/2.3c2e396e.chunk.css",
-    "static/js/2.2d8267b2.chunk.js": "/observatory-react/observatories/climate-change-opinion-observatory/static/js/2.2d8267b2.chunk.js",
-    "static/js/2.2d8267b2.chunk.js.map": "/observatory-react/observatories/climate-change-opinion-observatory/static/js/2.2d8267b2.chunk.js.map",
-    "index.html": "/observatory-react/observatories/climate-change-opinion-observatory/index.html",
-    "precache-manifest.bc8dc9bd9341eddf995c719893f913cf.js": "/observatory-react/observatories/climate-change-opinion-observatory/precache-manifest.bc8dc9bd9341eddf995c719893f913cf.js",
-    "service-worker.js": "/observatory-react/observatories/climate-change-opinion-observatory/service-worker.js",
-    "static/css/2.3c2e396e.chunk.css.map": "/observatory-react/observatories/climate-change-opinion-observatory/static/css/2.3c2e396e.chunk.css.map",
-    "static/js/2.2d8267b2.chunk.js.LICENSE": "/observatory-react/observatories/climate-change-opinion-observatory/static/js/2.2d8267b2.chunk.js.LICENSE",
-    "static/media/logo.svg": "/observatory-react/observatories/climate-change-opinion-observatory/static/media/logo.a5e39838.svg",
-    "static/media/logosmall.svg": "/observatory-react/observatories/climate-change-opinion-observatory/static/media/logosmall.4a6f6104.svg"
+    "main.js": "./static/js/main.a60b7e5d.chunk.js",
+    "main.js.map": "./static/js/main.a60b7e5d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6afaad8e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6afaad8e.js.map",
+    "static/css/2.3c2e396e.chunk.css": "./static/css/2.3c2e396e.chunk.css",
+    "static/js/2.2d8267b2.chunk.js": "./static/js/2.2d8267b2.chunk.js",
+    "static/js/2.2d8267b2.chunk.js.map": "./static/js/2.2d8267b2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9652dbbf554664ef8319bb5aaa149def.js": "./precache-manifest.9652dbbf554664ef8319bb5aaa149def.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.3c2e396e.chunk.css.map": "./static/css/2.3c2e396e.chunk.css.map",
+    "static/js/2.2d8267b2.chunk.js.LICENSE": "./static/js/2.2d8267b2.chunk.js.LICENSE",
+    "static/media/logo.svg": "./static/media/logo.a5e39838.svg",
+    "static/media/logosmall.svg": "./static/media/logosmall.4a6f6104.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.14a0b647.js",
+    "static/js/runtime-main.6afaad8e.js",
     "static/css/2.3c2e396e.chunk.css",
     "static/js/2.2d8267b2.chunk.js",
-    "static/js/main.ea7fda5d.chunk.js"
+    "static/js/main.a60b7e5d.chunk.js"
   ]
 }
