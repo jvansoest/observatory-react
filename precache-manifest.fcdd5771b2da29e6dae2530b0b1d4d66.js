@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e33f4efc9664bd426b441ab0e091de3",
+    "revision": "b9de2fdfd4224cdc9f82d7d69092771a",
     "url": "/observatories/climate-change-opinion-observatory/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/observatories/climate-change-opinion-observatory/static/js/2.2d8267b2.chunk.js.LICENSE"
   },
   {
-    "revision": "93db0c1fe31c8911550e",
-    "url": "/observatories/climate-change-opinion-observatory/static/js/main.ea7fda5d.chunk.js"
+    "revision": "ea45607c6641909c2151",
+    "url": "/observatories/climate-change-opinion-observatory/static/js/main.34b947bd.chunk.js"
   },
   {
     "revision": "4dd6d709e594fc8b1518",
