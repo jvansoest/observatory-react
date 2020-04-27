@@ -1,24 +1,35 @@
 {
   "files": {
-    "main.js": "/observatory-react/static/js/main.5fb7b8b5.chunk.js",
-    "main.js.map": "/observatory-react/static/js/main.5fb7b8b5.chunk.js.map",
-    "runtime-main.js": "/observatory-react/static/js/runtime-main.dc989a59.js",
-    "runtime-main.js.map": "/observatory-react/static/js/runtime-main.dc989a59.js.map",
-    "static/css/2.3c2e396e.chunk.css": "/observatory-react/static/css/2.3c2e396e.chunk.css",
-    "static/js/2.86f22e62.chunk.js": "/observatory-react/static/js/2.86f22e62.chunk.js",
-    "static/js/2.86f22e62.chunk.js.map": "/observatory-react/static/js/2.86f22e62.chunk.js.map",
-    "index.html": "/observatory-react/index.html",
-    "precache-manifest.13d13539eed0de6704aac93af4083c62.js": "/observatory-react/precache-manifest.13d13539eed0de6704aac93af4083c62.js",
-    "service-worker.js": "/observatory-react/service-worker.js",
-    "static/css/2.3c2e396e.chunk.css.map": "/observatory-react/static/css/2.3c2e396e.chunk.css.map",
-    "static/js/2.86f22e62.chunk.js.LICENSE": "/observatory-react/static/js/2.86f22e62.chunk.js.LICENSE",
-    "static/media/logo.svg": "/observatory-react/static/media/logo.a5e39838.svg",
-    "static/media/logosmall.svg": "/observatory-react/static/media/logosmall.4a6f6104.svg"
+    "main.js": "/observatories/climate-change-opinion-observatory/static/js/main.3346715b.chunk.js",
+    "main.js.map": "/observatories/climate-change-opinion-observatory/static/js/main.3346715b.chunk.js.map",
+    "runtime-main.js": "/observatories/climate-change-opinion-observatory/static/js/runtime-main.e0ef468e.js",
+    "runtime-main.js.map": "/observatories/climate-change-opinion-observatory/static/js/runtime-main.e0ef468e.js.map",
+    "static/css/2.3c2e396e.chunk.css": "/observatories/climate-change-opinion-observatory/static/css/2.3c2e396e.chunk.css",
+    "static/js/2.faaa1925.chunk.js": "/observatories/climate-change-opinion-observatory/static/js/2.faaa1925.chunk.js",
+    "static/js/2.faaa1925.chunk.js.map": "/observatories/climate-change-opinion-observatory/static/js/2.faaa1925.chunk.js.map",
+    "index.html": "/observatories/climate-change-opinion-observatory/index.html",
+    "precache-manifest.a8d096a86045206a616dc6d0850e083c.js": "/observatories/climate-change-opinion-observatory/precache-manifest.a8d096a86045206a616dc6d0850e083c.js",
+    "service-worker.js": "/observatories/climate-change-opinion-observatory/service-worker.js",
+    "static/css/2.3c2e396e.chunk.css.map": "/observatories/climate-change-opinion-observatory/static/css/2.3c2e396e.chunk.css.map",
+    "static/js/2.faaa1925.chunk.js.LICENSE": "/observatories/climate-change-opinion-observatory/static/js/2.faaa1925.chunk.js.LICENSE",
+    "static/media/addDataset.png": "/observatories/climate-change-opinion-observatory/static/media/addDataset.7afe9662.png",
+    "static/media/causalFrames.gif": "/observatories/climate-change-opinion-observatory/static/media/causalFrames.7d9c073e.gif",
+    "static/media/causalMap.gif": "/observatories/climate-change-opinion-observatory/static/media/causalMap.f8ca984d.gif",
+    "static/media/frameDistribution.gif": "/observatories/climate-change-opinion-observatory/static/media/frameDistribution.fb2d5456.gif",
+    "static/media/logo.svg": "/observatories/climate-change-opinion-observatory/static/media/logo.a5e39838.svg",
+    "static/media/logosmall.svg": "/observatories/climate-change-opinion-observatory/static/media/logosmall.4a6f6104.svg",
+    "static/media/namedEntities.gif": "/observatories/climate-change-opinion-observatory/static/media/namedEntities.4701f06f.gif",
+    "static/media/plotCounts.gif": "/observatories/climate-change-opinion-observatory/static/media/plotCounts.0c4b2b74.gif",
+    "static/media/screenshotObservatory.png": "/observatories/climate-change-opinion-observatory/static/media/screenshotObservatory.1f2ff1e9.png",
+    "static/media/statementDistribution.gif": "/observatories/climate-change-opinion-observatory/static/media/statementDistribution.2929a995.gif",
+    "static/media/statementGraph.gif": "/observatories/climate-change-opinion-observatory/static/media/statementGraph.22ae812b.gif",
+    "static/media/termFreq.gif": "/observatories/climate-change-opinion-observatory/static/media/termFreq.18dd8ebf.gif",
+    "static/media/wordTree.gif": "/observatories/climate-change-opinion-observatory/static/media/wordTree.a083eb22.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc989a59.js",
+    "static/js/runtime-main.e0ef468e.js",
     "static/css/2.3c2e396e.chunk.css",
-    "static/js/2.86f22e62.chunk.js",
-    "static/js/main.5fb7b8b5.chunk.js"
+    "static/js/2.faaa1925.chunk.js",
+    "static/js/main.3346715b.chunk.js"
   ]
 }
