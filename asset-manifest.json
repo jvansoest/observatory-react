@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.js": "/observatory-react/static/js/main.e9adbbc6.chunk.js",
-    "main.js.map": "/observatory-react/static/js/main.e9adbbc6.chunk.js.map",
+    "main.js": "/observatory-react/static/js/main.67226598.chunk.js",
+    "main.js.map": "/observatory-react/static/js/main.67226598.chunk.js.map",
     "runtime-main.js": "/observatory-react/static/js/runtime-main.dc989a59.js",
     "runtime-main.js.map": "/observatory-react/static/js/runtime-main.dc989a59.js.map",
     "static/css/2.3c2e396e.chunk.css": "/observatory-react/static/css/2.3c2e396e.chunk.css",
-    "static/js/2.faaa1925.chunk.js": "/observatory-react/static/js/2.faaa1925.chunk.js",
-    "static/js/2.faaa1925.chunk.js.map": "/observatory-react/static/js/2.faaa1925.chunk.js.map",
+    "static/js/2.c1ebd7e3.chunk.js": "/observatory-react/static/js/2.c1ebd7e3.chunk.js",
+    "static/js/2.c1ebd7e3.chunk.js.map": "/observatory-react/static/js/2.c1ebd7e3.chunk.js.map",
     "index.html": "/observatory-react/index.html",
-    "precache-manifest.0218e42f4846974e78fe3618655b2ca5.js": "/observatory-react/precache-manifest.0218e42f4846974e78fe3618655b2ca5.js",
+    "precache-manifest.2d92623f047daf07c788476b540b7f04.js": "/observatory-react/precache-manifest.2d92623f047daf07c788476b540b7f04.js",
     "service-worker.js": "/observatory-react/service-worker.js",
     "static/css/2.3c2e396e.chunk.css.map": "/observatory-react/static/css/2.3c2e396e.chunk.css.map",
-    "static/js/2.faaa1925.chunk.js.LICENSE": "/observatory-react/static/js/2.faaa1925.chunk.js.LICENSE",
+    "static/js/2.c1ebd7e3.chunk.js.LICENSE": "/observatory-react/static/js/2.c1ebd7e3.chunk.js.LICENSE",
     "static/media/addDataset.png": "/observatory-react/static/media/addDataset.7afe9662.png",
     "static/media/causalFrames.gif": "/observatory-react/static/media/causalFrames.7d9c073e.gif",
     "static/media/causalMap.gif": "/observatory-react/static/media/causalMap.f8ca984d.gif",
+    "static/media/exampleStep1.png": "/observatory-react/static/media/exampleStep1.d9d49943.png",
+    "static/media/exampleStep2.png": "/observatory-react/static/media/exampleStep2.8abfccbe.png",
+    "static/media/exampleStep3.png": "/observatory-react/static/media/exampleStep3.c361a7c0.png",
+    "static/media/exampleStep4.png": "/observatory-react/static/media/exampleStep4.144cb2c9.png",
     "static/media/frameDistribution.gif": "/observatory-react/static/media/frameDistribution.fb2d5456.gif",
     "static/media/logo.svg": "/observatory-react/static/media/logo.a5e39838.svg",
     "static/media/logosmall.svg": "/observatory-react/static/media/logosmall.4a6f6104.svg",
@@ -29,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.dc989a59.js",
     "static/css/2.3c2e396e.chunk.css",
-    "static/js/2.faaa1925.chunk.js",
-    "static/js/main.e9adbbc6.chunk.js"
+    "static/js/2.c1ebd7e3.chunk.js",
+    "static/js/main.67226598.chunk.js"
   ]
 }
